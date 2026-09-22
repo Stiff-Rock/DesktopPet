@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 886268203933869050}
   - component: {fileID: 6987272713240704341}
   - component: {fileID: 6587289596897713552}
+  - component: {fileID: 1575819402826354389}
   m_Layer: 0
   m_Name: Pet
   m_TagString: Untagged
@@ -281,3 +282,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3a43309c2262744992f053d5cfebb56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionHandler
+  <CurrentInteractions>k__BackingField: 0
+--- !u!114 &1575819402826354389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3100205689512137707}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fce30ae61ed1b4c9a3f172288b71ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  walkTweenDuration: 0.1
+  walkTweenScale: {x: 1.1, y: 1.1}
+  interactionHandler: {fileID: 6587289596897713552}
