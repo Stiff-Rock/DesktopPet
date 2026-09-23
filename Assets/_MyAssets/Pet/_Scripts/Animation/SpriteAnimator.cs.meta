@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74fce30ae61ed1b4c9a3f172288b71ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animSettings: {fileID: 11400000, guid: df0684a0727a6794b8f2345f839dec38, type: 2}
+  - pivotTransform: {instanceID: 0}
+  - interactionHandler: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
